@@ -11,6 +11,7 @@ public class Class01 {
         //V5 calismalari
         
         //V6 
+        //v7
 
     }
 
