@@ -1,6 +1,15 @@
 public class Class01 {
+    public static void main(String[] args) {
 
-    //V1 calismalari
+        //V1 calismalari
 
-    //V2 calismlalari
+        //V2 calismlalari
+
+        //V3 calismasi
+        System.out.println("V3");
+
+    }
+
+
+
 }
